@@ -1,4 +1,4 @@
-# 🚗 CarRental System — JSP + MySQL
+# 🚗 CarRentalManagementSystem — JSP + MySQL
 
 A full-stack car rental web application built with **Java Servlets**, **JSP**, and **MySQL**.
 
